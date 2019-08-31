@@ -176,4 +176,5 @@
 	END OF TERMS AND CONDITIONS
 
 Experimenting on CICD process
-Testing the CICD process
+Testing the CICD proces
+testing again CICD
